@@ -4,6 +4,8 @@ A small shop backend in Python. It exists to be reviewed.
 
 This is the repo that gets reviewed on Days 8, 17, 18, and 19 of **Claude Lunch & Learn: Zero to Agent in 20 Days**. The reviewer itself lives in https://github.com/keshawillz/oreilly-claude-pr-review-helper.
 
+NOTE - I am making a change for tracking now.
+
 ## Run it
 ```bash
 pip install pytest
